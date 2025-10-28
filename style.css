@@ -1,0 +1,11 @@
+.slike {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+}
+img{
+    width: 400px;
+    margin: 20px;
+}
+
+
